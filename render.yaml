@@ -1,3 +1,4 @@
+
 services:
   - type: web
     name: scarline
@@ -12,9 +13,6 @@ services:
         value: 3.12.11
       - key: SCARLINE_OPERATOR_TOKEN
         generateValue: true
-      - key: DATABASE_URL
-        sync: false
-
       - key: MEKO_DATAPACK_ID
         value: 3985023e-ece5-4b81-9833-2132c3b7ce24
       - key: MEKO_API_KEY
