@@ -178,3 +178,11 @@ The existing `submission` video, slides, research and checkout proof are retaine
 The Blueprint remains on the Free demo plan. Free services spin down after 15 idle minutes and lose local filesystem changes; PostgreSQL is required for durable data. Select an appropriate paid instance for continuous monitoring. No hosting purchase or deployment was performed here.
 
 Primary references: [Meko tools](https://docs.mekodata.ai/reference/mcp-server/), [Meko projects](https://docs.mekodata.ai/use-meko/projects/), [Render Blueprint](https://render.com/docs/blueprint-spec), [Render Free limitations](https://render.com/docs/free), [Grafana webhook](https://grafana.com/docs/grafana/latest/alerting/configure-notifications/manage-contact-points/integrations/webhook-notifier/), [Alertmanager configuration](https://prometheus.io/docs/alerting/latest/configuration/).
+
+
+
+
+
+
+
+trail link :https://scarline.onrender.com
