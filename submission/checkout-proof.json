@@ -1,0 +1,22 @@
+{
+  "source": "live loopback HTTP / synthetic checkouts",
+  "baseline": {
+    "started": "2026-11-23T18:25:04.557714+00:00",
+    "ended": "2026-11-23T18:25:05.181028+00:00",
+    "attempts": 10,
+    "failed": 0
+  },
+  "alert_window": {
+    "started": "2026-11-23T18:25:05.181055+00:00",
+    "ended": "2026-11-23T18:25:05.800876+00:00",
+    "attempts": 10,
+    "failed": 5
+  },
+  "threshold": 0.3,
+  "trace_id": "4fa8aa0f1b934a87863182c9cab4ed9a",
+  "decision_time": "2026-11-23T18:25:06.360981+00:00",
+  "action": "Restart workers",
+  "verdict": "Blocked",
+  "scar_id": "27660641fe374814a59f65878f338d86",
+  "executor_ran": false
+}
